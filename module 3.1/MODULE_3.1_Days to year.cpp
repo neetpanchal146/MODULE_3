@@ -21,11 +21,7 @@ main()
 		years = days/365;
 		printf("number of years is %d\n",years);
 		
-		/*printf("To find out remaning day enter number of days again\n");
-		scanf("%d",&days);
-		remain = days%365;
-		printf("remaining days are %d",remain);
-		*/
+		
 	}
 	
 	
